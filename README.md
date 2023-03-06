@@ -4,4 +4,4 @@
 
 <!-- ![Preview](/gif.gif) -->
 
-![App UI](ui_images/ui1.png)
+![App UI](ui_images/)
