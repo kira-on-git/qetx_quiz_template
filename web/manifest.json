@@ -1,6 +1,6 @@
 {
-    "name": "getx_project_named_routs",
-    "short_name": "getx_project_named_routs",
+    "name": "getx_quiz_template",
+    "short_name": "getx_quiz_template",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

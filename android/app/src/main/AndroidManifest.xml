@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.getx_project_named_routs">
+    package="com.example.getx_quiz_template">
    <application
-        android:label="getx_project_named_routs"
+        android:label="getx_quiz_template"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
